@@ -33,3 +33,41 @@ O **Python e Dados: Ferramentas e Bibliotecas Essenciais** apresenta as principa
    ```bash
    git clone https://github.com/seu-usuario/python-dados-essenciais.git
    cd python-dados-essenciais
+
+## 📚 Recursos Incluídos
+
+- Exemplos de código realistas para aprendizado e aplicação.
+- Datasets de exemplo para manipulação e análise.
+- Notebooks interativos para facilitar a exploração dos conceitos.
+- Versão PDF do eBook, disponível no diretório ebook/.
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para contribuir com este projeto! Aqui estão algumas maneiras de ajudar:
+
+- Relatar problemas ou bugs.
+- Sugerir melhorias ou novos capítulos.
+- Adicionar exemplos ou novos datasets.
+
+Para contribuir:
+
+1. Faça um fork do repositório.
+2. Crie uma branch para a sua feature/ajuste:
+   ```bash
+   git checkout -b minha-feature
+3. Faça um pull request para revisão.
+
+## 📧 Contato
+
+Dúvidas, sugestões ou feedback? Entre em contato:
+
+Autor: Gabriel Butti de Souza
+Email: gabriel.butti@hotmail.com
+
+## 🌟 Agradecimentos
+
+A criação deste eBook só foi possível graças à incrível comunidade de Python e dados. Agradeço a todos que compartilharam conhecimento e contribuíram para tornar este projeto uma realidade. Um agradecimento especial a você, leitor, por dedicar seu tempo e interesse a este material.
+
+## 📜 Licença
+
+Este projeto está licenciado sob a MIT License. Sinta-se livre para usá-lo, adaptá-lo e compartilhá-lo.
