@@ -62,6 +62,7 @@ Para contribuir:
 Dúvidas, sugestões ou feedback? Entre em contato:
 
 Autor: Gabriel Butti de Souza
+
 Email: gabriel.butti@hotmail.com
 
 ## 🌟 Agradecimentos
